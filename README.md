@@ -6,15 +6,11 @@ It's an API for a web application for a social network where users can express t
 
 # Technology
 
-* Javascript
+* JavascriptCancel 
 * Node.js
-* Express.js
 * MongoDB
 * Mongoose
-* ThreeJS 
-* React Three Fiber 
-* TailwindCSS 
-* Framer Motion 
+
 
 # Installation
 
@@ -22,7 +18,7 @@ npm install
 
 # Usuage 
 
-npm run dev
+npm start
 
 
 
