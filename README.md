@@ -11,6 +11,10 @@ It's an API for a web application for a social network where users can express t
 * Express.js
 * MongoDB
 * Mongoose
+* ThreeJS 
+* React Three Fiber 
+* TailwindCSS 
+* Framer Motion 
 
 # Installation
 
@@ -18,10 +22,9 @@ npm install
 
 # Usuage 
 
-npm start
-
-# Walk through Video
+npm run dev
 
 
-https://user-images.githubusercontent.com/116980413/235378945-4cdba5eb-bbc0-4634-82ac-5a46e8b58ac1.mp4
+
+
 
